@@ -1,4 +1,5 @@
 # Data Professional Survey Breakdown Dashboard
+
  
 ## Interactive PowerBI Dashboard Link : 
 
@@ -9,6 +10,7 @@ This dashboard analyzes survey responses from 630 data professionals worldwide t
 
 
 ### Process
+
 - Data Validation: Checked the dataset for any missing values/anomalies and sorted.
 - Data Cleaning: Ensured data consistency and cleanliness across all fields.
 - New Calculations: Added new columns to calculate average salary and age. 
@@ -17,6 +19,7 @@ This dashboard analyzes survey responses from 630 data professionals worldwide t
 
 
 ### Key Dashboard Features
+
 - Total Survey Participants
 - Average Age
 - Country of Residence
@@ -29,16 +32,16 @@ This dashboard analyzes survey responses from 630 data professionals worldwide t
 
 ### Dashboard Overview
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/5d407446-c219-4496-8f73-9a56106db472)
 
 
 ### Project Insight
+
 - Salary and Satisfaction: While average salaries vary by job title, there appears to be moderate satisfaction with work-life balance but lower satisfaction with salaries, suggesting potential areas for employer focus. Data Scientists also represent the highest salary group, with an average salary of $94k.
 - Programming Language Trends: Python is the most favored language among data professionals, followed by R and SQL, which reflects current industry trends. Java is least preferred.
 - Challenges in Entering the field: A significant portion of respondents find it difficult to break into the data field, pointing to possible barriers to entry for aspiring professionals. 
 
+
 ### Final Conclusion
+
 This dashboard provides an organized clean glimpse into the data profession, highlighting salary disparities, satisfaction levels, and specific technical skills. Employers and aspiring data professionals could leverage these insights to better understand job expectations and opportunities for improvement in the field. 
