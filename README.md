@@ -2,7 +2,6 @@
 
 #### Data Used : <a href="https://github.com/Elbebiniam/PowerBI_Dashboard/blob/main/Survey%20Response%20Dataset">Survey Response Dataset</a>
 
-#### Interactive PowerBI Dashboard Link : 
 
 
 ### Introduction
@@ -33,7 +32,7 @@ This dashboard analyzes survey responses from 630 data professionals worldwide t
 
 ### Dashboard Overview
 
-![image](https://github.com/user-attachments/assets/5d407446-c219-4496-8f73-9a56106db472)
+![image](https://github.com/user-attachments/assets/2595e68e-e392-49b9-9c27-7c11aae46aae)
 
 
 ### Project Insight
