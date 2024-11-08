@@ -33,7 +33,7 @@ This dashboard analyzes survey responses from 630 data professionals worldwide t
 
 ### Dashboard Overview
 
-![image](https://github.com/user-attachments/assets/2595e68e-e392-49b9-9c27-7c11aae46aae)
+![image](https://github.com/user-attachments/assets/b479e509-dd6b-47ab-83df-4b4f26e9b78f)
 
 
 ### Project Insight
