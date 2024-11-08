@@ -1,8 +1,8 @@
 # Data Professional Survey Breakdown Dashboard
 
-#### Data Used : <a href="https://github.com/Elbebiniam/PowerBI_Dashboard/blob/main/Survey%20Response%20Dataset">Survey Response Dataset</a>
+#### Data Used : <a href="https://github.com/DataByElbe/PowerBI_Dashboard/blob/main/Survey%20Response%20Dataset">Survey Response Dataset</a>
 
-#### Dashboard : <a href="https://github.com/Elbebiniam/PowerBI_Dashboard/blob/main/PowerBI%20Dashboard.png">PowerBI Dashboard Visualization</a>
+#### Dashboard : <a href="https://github.com/DataByElbe/PowerBI_Dashboard/blob/main/PowerBI%20Dashboard.png">PowerBI Dashboard Visualization</a>
 
 
 ### Introduction
